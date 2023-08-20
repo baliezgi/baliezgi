@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m working as a Project Coordinator at Kodluyoruz,
+- 🔭 I’m working as a Project Lead & Scrum Master at Kodluyoruz,
 - 💻 Also, A person trying to become a computer engineer.
 - 🌱 I’m currently learning Swift.
 - 👯 I’m collaborating as a PM on other software project.
