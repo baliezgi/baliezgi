@@ -9,8 +9,8 @@
 
 
 
-- 🔭 I’m working as a Project Lead & Scrum Master at Kodluyoruz,
-- 💻 Also, Computer Engineer.
+- 🔭 I’m working as a Project Lead & Scrum Master at was Kodluyoruz,
+- 💻 Also, Software Engineer at Papara.
 - 🌱 I’m currently learning Backend side.
 - 👯 I’m collaborating as a PM on other software project.
 - 💬 If you're new to learning to software, I can help you.
