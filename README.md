@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m working as a Project Lead & Scrum Master at was Kodluyoruz,
+- 🔭 Project Lead & Scrum Master at was Kodluyoruz,
 - 💻 Also, Software Engineer at Papara.
 - 🌱 I’m currently learning Backend side.
 - 👯 I’m collaborating as a PM on other software project.
